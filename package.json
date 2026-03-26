@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "start": "vite"
+    "start": " --host vite"
   },
   "dependencies": {
     "react": "^19.2.0",
